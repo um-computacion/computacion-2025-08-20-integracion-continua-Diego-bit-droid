@@ -1,4 +1,4 @@
-ame: CI with Coverage and SonarCloud
+name: CI with Coverage and SonarCloud
 
 on:
   push:
